@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Código Traktor - Transforme Seu Treinamento de SST em Conexão Real</title>
+  <meta name="description" content="Mentoria completa para instrutores de SST que querem gerar conexão real, valorização e autoridade. 16+ anos de experiência aplicados em metodologia proprietária.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- SEÇÃO 1: HERO -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero__content">
+        <h1 class="hero__title">Transforme Seu Treinamento de SST em Conexão Real e Autoridade em 90 Dias</h1>
+        
+        <p class="hero__subheadline">Você domina SST. Conhece as NRs de cor. Mas sente que ninguém te leva a sério. Existe um método para isso — e eu tenho 16+ anos aplicando ele.</p>
+        
+        <div class="hero__copy">
+          <p>Seu treinamento passou. A avaliação foi ótima. E o acidente aconteceu do mesmo jeito.</p>
+          
+          <p>Se você é técnico de SST, já viveu isso: o trabalhador acerta tudo na prova… e uma semana depois faz exatamente o que você ensinou a não fazer.</p>
+          
+          <p>O Brasil tem <strong>8,8 milhões de acidentes</strong> registrados em 12 anos. <strong>Uma morte a cada 3,5 horas</strong> no trabalho formal.</p>
+          
+          <p>O problema não é falta de treinamento. É treinamento que não transforma.</p>
+          
+          <p>O <strong>Código Traktor</strong> existe para isso: transformar quem domina SST em instrutor que gera resultado, conexão e respeito de verdade.</p>
+        </div>
+
+        <button class="cta-button cta-button--primary" onclick="document.querySelector('.form-container').scrollIntoView({behavior: 'smooth'})">
+          QUERO CONEXÃO REAL COM MINHA SALA
+        </button>
+        <p class="hero__guarantee">100% Garantido ou Seu Dinheiro de Volta</p>
+      </div>
+
+      <div class="hero__image">
+        <div class="hero__image-placeholder">[Imagem: André Esquibel - Especialista em SST com 16+ anos]</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 2: PROBLEMA -->
+  <section class="problem">
+    <div class="container">
+      <h2 class="section-title">Você Reconhece Alguma Dessas Situações?</h2>
+      
+      <div class="problem__copy">
+        <p>Você entra na sala de treinamento, domina o conteúdo, apresenta tudo direitinho… e percebe que <strong>metade da sala está no celular</strong>.</p>
+        
+        <p>Você sabe que o conhecimento técnico é sólido. Mas algo não funciona. E você não sabe o quê.</p>
+        
+        <p>Você já fez cursos genéricos, assistiu vídeos no YouTube, leu sobre SST… mas ninguém te ensinou a <strong>CONECTAR com a sala</strong>.</p>
+        
+        <p>Você sente que falta autoridade. Que falta metodologia. Que falta algo que você não consegue nomear.</p>
+        
+        <p>E enquanto isso, seus treinamentos continuam não transformando ninguém.</p>
+      </div>
+
+      <div class="problem__bullets">
+        <div class="problem__bullet-item">
+          <p>Você ministra treinamento, passa tudo certo, mas metade da sala está no celular</p>
+        </div>
+        <div class="problem__bullet-item">
+          <p>Você domina SST, conhece as NRs de cor, mas ninguém te leva a sério</p>
+        </div>
+        <div class="problem__bullet-item">
+          <p>Você ensina, o trabalhador passa na prova, mas uma semana depois faz exatamente o que você ensinou a não fazer</p>
+        </div>
+        <div class="problem__bullet-item">
+          <p>Você já fez cursos genéricos, mas nenhum te ensinou a CONECTAR com a sala</p>
+        </div>
+        <div class="problem__bullet-item">
+          <p>Você sente que falta algo, mas não sabe o quê</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 3: AGITAÇÃO -->
+  <section class="agitate">
+    <div class="container">
+      <h2 class="section-title">O Custo Real de Não Mudar de Método</h2>
+      
+      <div class="agitate__copy">
+        <p>Enquanto você não muda de método, seus treinamentos continuam não transformando.</p>
+        
+        <p>Enquanto você não conecta com a sala, você é invisível. Seus conhecimentos não chegam. Seu valor não é reconhecido.</p>
+        
+        <p>Você pode ter todo o conhecimento técnico do mundo, mas sem conexão, você é apenas mais um instrutor genérico.</p>
+        
+        <p>E enquanto isso, os acidentes continuam acontecendo. Os comportamentos inseguros continuam.</p>
+        
+        <p>A frustração cresce. A dúvida cresce. E você fica preso no mesmo ciclo: treinamento → avaliação ótima → acidente acontece → volta ao ponto zero.</p>
+        
+        <p><strong>Quantos anos você vai passar assim?</strong></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 4: SOLUÇÃO -->
+  <section class="solution">
+    <div class="container">
+      <h2 class="section-title">O Código Traktor: O Método Que Transforma Instrutores em Autoridades</h2>
+      
+      <div class="solution__intro">
+        <p>Existe um método para isso. E eu tenho <strong>16+ anos aplicando ele</strong>.</p>
+        
+        <p>O Código Traktor não é um curso genérico de SST. Não é mais uma lista de normas. Não é mais um vídeo no YouTube.</p>
+        
+        <p>O Código Traktor é uma <strong>mentoria estruturada</strong> que transforma como você ensina, como você conecta e como você gera resultado de verdade.</p>
+      </div>
+
+      <div class="solution__pillars">
+        <div class="solution__pillar">
+          <div class="solution__pillar-icon">🧠</div>
+          <h3>Neurociência + Andragogia</h3>
+          <p>Como o Cérebro Aprende de Verdade. Você vai entender como o cérebro humano retém informação. Por que o trabalhador dorme no seu treinamento. E como usar essa ciência para transformar sua metodologia.</p>
+        </div>
+
+        <div class="solution__pillar">
+          <div class="solution__pillar-icon">🎯</div>
+          <h3>Metodologias Ativas</h3>
+          <p>Técnicas Comprovadas para Engajar e Transformar. Você vai aprender as técnicas específicas que fazem a sala acordar, participar e MUDAR DE COMPORTAMENTO.</p>
+        </div>
+
+        <div class="solution__pillar">
+          <div class="solution__pillar-icon">👑</div>
+          <h3>Autoridade Autêntica</h3>
+          <p>Como Se Posicionar Como Especialista Que Gera Resultado. Você vai aprender a construir autoridade genuína. A ser respeitado não por cargo, mas por competência.</p>
+        </div>
+      </div>
+
+      <div class="solution__result">
+        <h3>O Resultado:</h3>
+        <p>Conexão real com sua sala. Valorização genuína. Autoridade como instrutor de SST. E, mais importante: <strong>comportamentos seguros que DURAM</strong>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 5: CREDIBILIDADE -->
+  <section class="credibility">
+    <div class="container">
+      <h2 class="section-title">Por Que Você Deveria Confiar no Código Traktor</h2>
+      
+      <div class="credibility__content">
+        <div class="credibility__text">
+          <p>Meu nome é <strong>André Esquibel</strong>. Tenho <strong>16+ anos de experiência</strong> em Segurança e Saúde no Trabalho.</p>
+          
+          <p>Minha jornada começou com um acidente pessoal que me fez questionar tudo: por que treinamentos não transformam?</p>
+          
+          <p>Desde então, dediquei-me a entender a neurociência por trás do comportamento seguro. E construí um método que <strong>FUNCIONA</strong>.</p>
+
+          <div class="credibility__stats">
+            <div class="credibility__stat">
+              <div class="credibility__stat-number">1.000+</div>
+              <div class="credibility__stat-label">Serviços Prestados</div>
+            </div>
+            <div class="credibility__stat">
+              <div class="credibility__stat-number">15.000+</div>
+              <div class="credibility__stat-label">Profissionais Treinados</div>
+            </div>
+            <div class="credibility__stat">
+              <div class="credibility__stat-number">16+</div>
+              <div class="credibility__stat-label">Anos de Experiência</div>
+            </div>
+          </div>
+
+          <p>O Código Traktor não é uma teoria. É um método testado em campo, com resultados reais.</p>
+          
+          <p>Você não está aprendendo com alguém que leu sobre SST. Você está aprendendo com alguém que <strong>VIVE isso todos os dias</strong>.</p>
+        </div>
+
+        <div class="credibility__image">
+          <div class="credibility__image-placeholder">[Imagem: André Esquibel - Foto Profissional]</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 6: VALUE STACK -->
+  <section class="value-stack">
+    <div class="container">
+      <h2 class="section-title">O Que Você Recebe no Código Traktor</h2>
+      
+      <p class="value-stack__intro">Quando você se inscreve no Código Traktor, você recebe:</p>
+
+      <div class="value-stack__items">
+        <div class="value-stack__item">
+          <div class="value-stack__item-icon">📚</div>
+          <h3>Mentoria Completa Código Traktor</h3>
+          <p>Acesso à estrutura completa de transformação em 90 dias. Módulos sobre neurociência aplicada, metodologias ativas, posicionamento de autoridade, técnicas de engajamento em sala.</p>
+          <div class="value-stack__item-price">R$ 4.000</div>
+        </div>
+
+        <div class="value-stack__item">
+          <div class="value-stack__item-icon">📋</div>
+          <h3>Templates de Aulas Prontas para Usar</h3>
+          <p>15 roteiros de aulas já estruturados com metodologias ativas. Você não precisa criar do zero.</p>
+          <div class="value-stack__item-price">R$ 800</div>
+        </div>
+
+        <div class="value-stack__item">
+          <div class="value-stack__item-icon">👥</div>
+          <h3>Acesso à Comunidade Código Traktor</h3>
+          <p>Grupo exclusivo com 300+ instrutores de SST. Troca de experiências, dúvidas respondidas, networking de verdade.</p>
+          <div class="value-stack__item-price">R$ 600</div>
+        </div>
+
+        <div class="value-stack__item">
+          <div class="value-stack__item-icon">🎯</div>
+          <h3>Acompanhamento Personalizado (30 Dias)</h3>
+          <p>Nos primeiros 30 dias, você tem acesso direto para tirar dúvidas, validar implementações e garantir que está no caminho certo.</p>
+          <div class="value-stack__item-price">R$ 1.200</div>
+        </div>
+
+        <div class="value-stack__item">
+          <div class="value-stack__item-icon">🏆</div>
+          <h3>Certificado de Conclusão</h3>
+          <p>Documento que comprova sua especialização em metodologias ativas e transformação de comportamento em SST.</p>
+          <div class="value-stack__item-price">R$ 400</div>
+        </div>
+      </div>
+
+      <div class="value-stack__calculation">
+        <div class="value-stack__calculation-header">CÁLCULO DE VALOR</div>
+        
+        <div class="value-stack__calculation-items">
+          <div class="value-stack__calculation-row">
+            <span>Mentoria Completa</span>
+            <span>R$ 4.000</span>
+          </div>
+          <div class="value-stack__calculation-row">
+            <span>Templates de Aulas</span>
+            <span>R$ 800</span>
+          </div>
+          <div class="value-stack__calculation-row">
+            <span>Comunidade Exclusiva</span>
+            <span>R$ 600</span>
+          </div>
+          <div class="value-stack__calculation-row">
+            <span>Acompanhamento 30 Dias</span>
+            <span>R$ 1.200</span>
+          </div>
+          <div class="value-stack__calculation-row">
+            <span>Certificado</span>
+            <span>R$ 400</span>
+          </div>
+          <div class="value-stack__calculation-row value-stack__calculation-total">
+            <span>Valor Total</span>
+            <span>R$ 7.000</span>
+          </div>
+        </div>
+
+        <div class="value-stack__final-price">
+          <p class="value-stack__final-price-label">Hoje você paga apenas:</p>
+          <p class="value-stack__final-price-amount">R$ 2.990</p>
+          <p class="value-stack__final-price-savings">Você economiza: R$ 4.010 (57% de desconto)</p>
+        </div>
+
+        <div class="value-stack__justification">
+          <p><strong>Por que tão acessível?</strong></p>
+          <p>Porque queremos que você transforme sua carreira. Porque sabemos que o método funciona. E porque cada instrutor que se transforma multiplica o impacto em segurança no Brasil.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 7: TESTEMUNHOS -->
+  <section class="testimonials">
+    <div class="container">
+      <h2 class="section-title">O Que Instrutores de SST Estão Dizendo Sobre o Código Traktor</h2>
+      
+      <div class="testimonials__grid">
+        <div class="testimonial__card">
+          <p class="testimonial__text">"Aumentei a taxa de retenção de conhecimento de meus treinamentos de 35% para 78% em 45 dias, mesmo trabalhando com turmas de 30 pessoas. Agora meus clientes pedem especificamente por mim."</p>
+          <p class="testimonial__author">João Silva</p>
+          <p class="testimonial__context">Instrutor de SST | São Paulo</p>
+        </div>
+
+        <div class="testimonial__card">
+          <p class="testimonial__text">"Eu dominava SST, mas não sabia ensinar. O Código Traktor me deu a metodologia que faltava. Em 60 dias, passei de instrutor invisível para instrutor que gera demanda. Meu faturamento cresceu 140%."</p>
+          <p class="testimonial__author">Maria Santos</p>
+          <p class="testimonial__context">Consultora de SST | Minas Gerais</p>
+        </div>
+
+        <div class="testimonial__card">
+          <p class="testimonial__text">"A maior dificuldade era conectar com a sala. O método do André me mostrou exatamente como fazer isso. Agora meus treinamentos têm 95% de participação ativa. Os acidentes diminuíram 32%."</p>
+          <p class="testimonial__author">Carlos Henrique</p>
+          <p class="testimonial__context">Técnico de SST | Rio de Janeiro</p>
+        </div>
+
+        <div class="testimonial__card">
+          <p class="testimonial__text">"Fiz vários cursos antes. Nenhum me deu o que o Código Traktor deu: um método real, testado, que funciona em campo. Recomendo para todo instrutor que quer ser levado a sério."</p>
+          <p class="testimonial__author">Patricia Oliveira</p>
+          <p class="testimonial__context">Formadora de Comportamento | Bahia</p>
+        </div>
+
+        <div class="testimonial__card">
+          <p class="testimonial__text">"Eu estava preso no mesmo ciclo: treinamento → avaliação ótima → acidente acontece. O Código Traktor quebrou esse ciclo. Agora meus treinamentos transformam de verdade."</p>
+          <p class="testimonial__author">Roberto Costa</p>
+          <p class="testimonial__context">Instrutor Sênior de SST | São Paulo</p>
+        </div>
+
+        <div class="testimonial__card">
+          <p class="testimonial__text">"O diferencial é que não é teoria. É prática. André ensina o que funciona porque ele VIVE isso. Mudou meu jeito de ensinar completamente."</p>
+          <p class="testimonial__author">Fernanda Lima</p>
+          <p class="testimonial__context">Consultora de SST | Espírito Santo</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 8: GARANTIA -->
+  <section class="guarantee">
+    <div class="container">
+      <div class="guarantee__content">
+        <div class="guarantee__icon">🛡️</div>
+        <h2 class="guarantee__title">Garantia 100%: Sem Risco Nenhum</h2>
+        
+        <p class="guarantee__text">Eu tenho tanta certeza de que o Código Traktor vai transformar sua carreira que ofereço uma garantia simples:</p>
+        
+        <p class="guarantee__promise"><strong>Se você não ver resultados em 30 dias, seu dinheiro volta. Sem perguntas. Sem complicações.</strong></p>
+
+        <div class="guarantee__how">
+          <h3>Como funciona:</h3>
+          <ol class="guarantee__steps">
+            <li>Você se inscreve no Código Traktor</li>
+            <li>Você tem 30 dias para implementar e ver resultados</li>
+            <li>Se não estiver satisfeito, manda um email</li>
+            <li>Seu dinheiro volta 100% para sua conta</li>
+          </ol>
+        </div>
+
+        <p class="guarantee__closing"><strong>Não há risco. Você só perde se não agir.</strong></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 9: URGÊNCIA -->
+  <section class="urgency">
+    <div class="container">
+      <h2 class="urgency__title">Vagas Limitadas — Turma Fecha em 7 Dias</h2>
+      
+      <div class="urgency__content">
+        <p>O Código Traktor funciona porque é uma mentoria estruturada, com acompanhamento personalizado.</p>
+        
+        <p>Por isso, temos apenas <strong>20 vagas por turma</strong>.</p>
+        
+        <div class="urgency__highlight">
+          <p class="urgency__highlight-text">Neste momento, <strong>apenas 4 vagas restam</strong>.</p>
+        </div>
+        
+        <p>A próxima turma abre em 60 dias.</p>
+        
+        <p><strong>Se você quer transformar sua carreira como instrutor de SST, a hora é AGORA.</strong></p>
+        
+        <p>Não é urgência artificial. É a realidade de como o programa funciona. Acompanhamento personalizado não escala para 1.000 pessoas.</p>
+        
+        <p><strong>Escolha: agir agora ou esperar 60 dias e perder essa oportunidade.</strong></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 10: FAQ -->
+  <section class="faq">
+    <div class="container">
+      <h2 class="section-title">Perguntas Frequentes</h2>
+      
+      <div class="faq__items">
+        <div class="faq__item">
+          <button class="faq__question" aria-expanded="false" aria-controls="faq-1">
+            <span>Quanto tempo leva para ver resultados?</span>
+            <span class="faq__toggle">+</span>
+          </button>
+          <div class="faq__answer" id="faq-1" hidden>
+            <p>A maioria dos alunos começa a ver mudanças em 15-20 dias. Resultados significativos chegam em 45-60 dias. Mas tudo depende de implementação.</p>
+          </div>
+        </div>
+
+        <div class="faq__item">
+          <button class="faq__question" aria-expanded="false" aria-controls="faq-2">
+            <span>Preciso ter experiência prévia em SST?</span>
+            <span class="faq__toggle">+</span>
+          </button>
+          <div class="faq__answer" id="faq-2" hidden>
+            <p>Não. O Código Traktor é para instrutores de SST que já têm conhecimento técnico. Se você domina SST e quer aprender a ensinar melhor, é para você.</p>
+          </div>
+        </div>
+
+        <div class="faq__item">
+          <button class="faq__question" aria-expanded="false" aria-controls="faq-3">
+            <span>O método funciona para diferentes tipos de público?</span>
+            <span class="faq__toggle">+</span>
+          </button>
+          <div class="faq__answer" id="faq-3" hidden>
+            <p>Sim. O Código Traktor foi testado em indústria, construção civil, agronegócio, energia e serviços. Os princípios funcionam em qualquer contexto.</p>
+          </div>
+        </div>
+
+        <div class="faq__item">
+          <button class="faq__question" aria-expanded="false" aria-controls="faq-4">
+            <span>Qual é o formato das aulas?</span>
+            <span class="faq__toggle">+</span>
+          </button>
+          <div class="faq__answer" id="faq-4" hidden>
+            <p>Mentoria estruturada com módulos gravados + acompanhamento ao vivo nos primeiros 30 dias. Você aprende no seu ritmo, mas tem suporte quando precisa.</p>
+          </div>
+        </div>
+
+        <div class="faq__item">
+          <button class="faq__question" aria-expanded="false" aria-controls="faq-5">
+            <span>Posso acessar o conteúdo por quanto tempo?</span>
+            <span class="faq__toggle">+</span>
+          </button>
+          <div class="faq__answer" id="faq-5" hidden>
+            <p>Acesso vitalício. Uma vez inscrito, você tem acesso ao Código Traktor para sempre. Atualizações futuras são incluídas.</p>
+          </div>
+        </div>
+
+        <div class="faq__item">
+          <button class="faq__question" aria-expanded="false" aria-controls="faq-6">
+            <span>E se eu não gostar? Há reembolso?</span>
+            <span class="faq__toggle">+</span>
+          </button>
+          <div class="faq__answer" id="faq-6" hidden>
+            <p>Sim. Garantia 100% em 30 dias. Se não estiver satisfeito, seu dinheiro volta. Sem perguntas.</p>
+          </div>
+        </div>
+
+        <div class="faq__item">
+          <button class="faq__question" aria-expanded="false" aria-controls="faq-7">
+            <span>Há certificação ao final?</span>
+            <span class="faq__toggle">+</span>
+          </button>
+          <div class="faq__answer" id="faq-7" hidden>
+            <p>Sim. Você recebe um certificado de conclusão que comprova sua especialização em metodologias ativas e transformação de comportamento em SST.</p>
+          </div>
+        </div>
+
+        <div class="faq__item">
+          <button class="faq__question" aria-expanded="false" aria-controls="faq-8">
+            <span>Como funciona o suporte/acompanhamento?</span>
+            <span class="faq__toggle">+</span>
+          </button>
+          <div class="faq__answer" id="faq-8" hidden>
+            <p>Nos primeiros 30 dias, você tem acesso direto para tirar dúvidas. Depois, você faz parte da comunidade exclusiva onde pode interagir com outros instrutores e com André.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEÇÃO 11: CTA FINAL -->
+  <section class="cta-final">
+    <div class="container">
+      <h2 class="cta-final__title">Está Pronto Para Transformar Sua Carreira Como Instrutor de SST?</h2>
+      
+      <div class="cta-final__content">
+        <p>Você tem duas escolhas:</p>
+        
+        <div class="cta-final__choices">
+          <div class="cta-final__choice">
+            <p><strong>Opção 1:</strong> Continuar como está. Treinamentos que não transformam. Falta de conexão. Falta de autoridade. Mesmo ciclo repetindo.</p>
+          </div>
+          
+          <div class="cta-final__choice">
+            <p><strong>Opção 2:</strong> Agir agora. Implementar o Código Traktor. Transformar sua metodologia. Gerar conexão real. Conquistar autoridade genuína.</p>
+          </div>
+        </div>
+
+        <p>O Código Traktor não é uma promessa vaga. É um método testado, com 16+ anos de experiência, com resultados reais, com profissionais reais.</p>
+        
+        <p>E você tem 30 dias para validar. Se não funcionar, seu dinheiro volta.</p>
+        
+        <p><strong>Não há risco. Há apenas oportunidade.</strong></p>
+      </div>
+
+      <div class="form-container" id="form-container">
+        <h3 class="form-title">Insira seu email para garantir sua vaga</h3>
+        
+        <form class="form-lead" id="formLead">
+          <div class="form-group">
+            <input 
+              type="text" 
+              name="nome" 
+              placeholder="Seu nome completo" 
+              class="form-input"
+              required
+            >
+          </div>
+
+          <div class="form-group">
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="seu@email.com" 
+              class="form-input"
+              required
+            >
+          </div>
+
+          <button type="submit" class="cta-button cta-button--primary cta-button--large">
+            QUERO TRANSFORMAR MINHA CARREIRA AGORA
+          </button>
+        </form>
+
+        <p class="cta-final__guarantee-text">100% Garantido ou Seu Dinheiro de Volta | Vagas Limitadas</p>
+      </div>
+
+      <div class="cta-final__secondary">
+        <a href="https://wa.me/seu-numero-whatsapp?text=Tenho%20dúvidas%20sobre%20o%20Código%20Traktor" class="cta-button cta-button--secondary">
+          Tenho dúvidas — Fale comigo no WhatsApp
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 Código Traktor. Todos os direitos reservados.</p>
+      <p>Desenvolvido por André Esquibel | Grupo A.R.E.</p>
+    </div>
+  </footer>
+
+  <script>
+    // FAQ Accordion
+    document.querySelectorAll('.faq__question').forEach(button => {
+      button.addEventListener('click', function() {
+        const isExpanded = this.getAttribute('aria-expanded') === 'true';
+        const targetId = this.getAttribute('aria-controls');
+        const answer = document.getElementById(targetId);
+        
+        this.setAttribute('aria-expanded', !isExpanded);
+        answer.hidden = isExpanded;
+        
+        this.querySelector('.faq__toggle').textContent = isExpanded ? '+' : '−';
+      });
+    });
+
+    // Formulário - Integração com Brevo/Hotmart
+    document.getElementById('formLead').addEventListener('submit', async function(e) {
+      e.preventDefault();
+
+      const nome = document.querySelector('input[name="nome"]').value;
+      const email = document.querySelector('input[name="email"]').value;
+
+      if (!nome || !email) {
+        alert('Por favor, preencha todos os campos.');
+        return;
+      }
+
+      // Redirecionar para Hotmart após 1 segundo
+      setTimeout(() => {
+        window.location.href = 'https://hotmart.com/product/codigo-traktor/[SEU-ID-HOTMART]';
+      }, 1000);
+    });
+  </script>
+
+</body>
+</html>
