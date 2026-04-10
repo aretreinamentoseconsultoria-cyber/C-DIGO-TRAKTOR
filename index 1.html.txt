@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Código Traktor - Landing Page</title>
+    <style>
+        /* Reset e base */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        /* Tipografia */
+        h1, h2, h3 {
+            font-weight: bold;
+        }
+        h1 {
+            font-size: 2.5rem;
+        }
+        h2 {
+            font-size: 2rem;
+        }
+        h3 {
+            font-size: 1.5rem;
+        }
+        p {
+            font-size: 1rem;
+        }
+        /* Cores */
+        .primary-color {
+            color: #007bff;
+        }
+        .secondary-color {
+            color: #28a745;
+        }
+        .accent-color {
+            color: #ffc107;
+        }
+        .bg-primary {
+            background-color: #007bff;
+        }
+        .bg-secondary {
+            background-color: #28a745;
+        }
+        .bg-accent {
+            background-color: #ffc107;
+        }
+        /* Seções */
+        section {
+            padding: 60px 0;
+        }
+        .hero {
+            background: linear-gradient(135deg, #007bff, #28a745);
+            color: white;
+            text-align: center;
+            padding: 100px 0;
+        }
+        .hero h1 {
+            animation: fadeIn 2s;
+        }
+        .hero p {
+            animation: fadeIn 2s 0.5s both;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ffc107;
+            color: #333;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .btn:hover {
+            background-color: #e0a800;
+        }
+        /* Animações */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .section-alt {
+            background-color: #fff;
+        }
+        /* Responsividade */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            h2 {
+                font-size: 1.5rem;
+            }
+            .hero {
+                padding: 50px 0;
+            }
+        }
+        /* FAQ Accordion */
+        .faq-item {
+            margin-bottom: 10px;
+        }
+        .faq-question {
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            cursor: pointer;
+            border: none;
+            width: 100%;
+            text-align: left;
+        }
+        .faq-answer {
+            display: none;
+            padding: 15px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero -->
+    <section class="hero" id="hero">
+        <div class="container">
+            <h1>Bem-vindo ao Código Traktor</h1>
+            <p>Transforme seu negócio com nossas soluções inovadoras.</p>
+            <a href="#cta-final" class="btn">Saiba Mais</a>
+        </div>
+    </section>
+
+    <!-- Problem -->
+    <section class="section-alt" id="problem">
+        <div class="container">
+            <h2>O Problema</h2>
+            <p>Muitos negócios enfrentam desafios tecnológicos que impedem o crescimento.</p>
+        </div>
+    </section>
+
+    <!-- Agitate -->
+    <section id="agitate">
+        <div class="container">
+            <h2>Agitação</h2>
+            <p>Sem soluções adequadas, você perde oportunidades e eficiência.</p>
+        </div>
+    </section>
+
+    <!-- Solution -->
+    <section class="section-alt" id="solution">
+        <div class="container">
+            <h2>A Solução</h2>
+            <p>Nossas ferramentas personalizadas resolvem tudo isso rapidamente.</p>
+        </div>
+    </section>
+
+    <!-- Credibility -->
+    <section id="credibility">
+        <div class="container">
+            <h2>Credibilidade</h2>
+            <p>Com anos de experiência, ajudamos milhares de clientes.</p>
+        </div>
+    </section>
+
+    <!-- Value Stack -->
+    <section class="section-alt" id="value-stack">
+        <div class="container">
+            <h2>Pilha de Valor</h2>
+            <ul>
+                <li>Funcionalidade 1</li>
+                <li>Funcionalidade 2</li>
+                <li>Funcionalidade 3</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section id="testimonials">
+        <div class="container">
+            <h2>Depoimentos</h2>
+            <p>"Incrível!" - Cliente 1</p>
+            <p>"Mudou meu negócio." - Cliente 2</p>
+        </div>
+    </section>
+
+    <!-- Guarantee -->
+    <section class="section-alt" id="guarantee">
+        <div class="container">
+            <h2>Garantia</h2>
+            <p>Satisfação garantida ou seu dinheiro de volta.</p>
+        </div>
+    </section>
+
+    <!-- Urgency -->
+    <section id="urgency">
+        <div class="container">
+            <h2>Urgência</h2>
+            <p>Oferta limitada! Aproveite agora.</p>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section-alt" id="faq">
+        <div class="container">
+            <h2>FAQ</h2>
+            <div class="faq-item">
+                <button class="faq-question">Pergunta 1?</button>
+                <div class="faq-answer">Resposta 1.</div>
+            </div>
+            <div class="faq-item">
+                <button class="faq-question">Pergunta 2?</button>
+                <div class="faq-answer">Resposta 2.</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Final -->
+    <section id="cta-final">
+        <div class="container">
+            <h2>CTA Final</h2>
+            <p>Pronto para começar?</p>
+            <a href="#" class="btn">Inscreva-se Agora</a>
+        </div>
+    </section>
+
+    <script>
+        // FAQ Accordion
+        const faqQuestions = document.querySelectorAll('.faq-question');
+        faqQuestions.forEach(question => {
+            question.addEventListener('click', () => {
+                const answer = question.nextElementSibling;
+                answer.style.display = answer.style.display === 'block' ? 'none' : 'block';
+            });
+        });
+    </script>
+</body>
+</html>
