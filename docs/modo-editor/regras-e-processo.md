@@ -2,6 +2,7 @@
 tags: [modo-editor, video, processo, sst]
 versao: 1.0
 data: 2026-10-21
+status: superado por proposta-incorporacao-editonny.md (escrito sem acesso à skill modo-editor-are; vários itens conflitam com o perfil aprovado)
 origem: adaptado da skill editonny (MIT), só regras e processo
 ---
 
