@@ -1,7 +1,7 @@
 ---
 tags: [modo-editor, modo-editor-are, video, proposta, editonny]
 data: 2026-10-21
-status: proposta, aguardando aprovação do André item por item
+status: aprovado pelo André em 21/10/2026 (itens A a F); aplicação em aplicar-v3.10-no-pc.md
 alvo: skill modo-editor-are (vigente v3.9, aprovada em 09/10/2026)
 ---
 
